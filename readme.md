@@ -1,6 +1,6 @@
 # Challenges
 
-1. `npm i`to install typescript
+1. `npm i` to install typescript
 2. `npm run build` to compile
 3. `npm start`to see answers in the console
 
@@ -8,7 +8,7 @@
 
 - Part A
 
-An immutable function that flattens a multidimensional array.
+An immutable function that flattens a multidimensional array
 
 - Part B
 
@@ -24,15 +24,15 @@ Access values of deeply nested objects
 
 Set values in deeply nested objects
 
-# 3. Árbol
+### 3. Árbol
 
 Generate a tree structure using typescript. The structure has a root node and children that branch off. The final node on a branch is the leaf
 
-# 4. Console logs
+### 4. Console logs
 
-Changes the order that messages are logged to the console, only modifying one function: run()
+Changes the order that messages are logged to the console, only modifying one function: `run()`
 
-# 5. Memoization
+### 5. Memoization
 
 - Part A
 
